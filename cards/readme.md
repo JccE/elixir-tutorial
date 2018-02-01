@@ -1,7 +1,5 @@
 # Cards
 
-# Cards in elixir
-
 * create_deck
 ** Create an array of playing cards
 
@@ -19,8 +17,6 @@
 
 * load
 ** Load a collection of cards from the local machine
-
-**TODO: Add description**
 
 ## Installation
 
