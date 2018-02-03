@@ -1,6 +1,11 @@
 defmodule Cards do
 
-  def hello do
-    "Hi there, bitches!"
+  def create_deck do
+    ["Ace", "Two", "Three"]
   end
+
+
+  # def hello do
+  #   "Hi there, bitches!"
+  # end
 end
